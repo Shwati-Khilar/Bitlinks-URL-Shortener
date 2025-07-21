@@ -10,7 +10,7 @@ export default function Contact() {
   const handleSubmit = e => {
     e.preventDefault();
     setSubmitted(true);
-    // Optional: implement backend/API handling, or use an email service.
+   
   };
 
   return (
