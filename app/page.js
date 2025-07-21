@@ -1,25 +1,4 @@
-// import Image from "next/image";
-// import Link from "next/link";
 
-// export default function Home() {
-//   return (
-//     <main className="bg-purple-100">
-//       <section className="grid grid-cols-2 h-{50vh}">
-//         <div className=" flex flex-col gap-4 items-center justify-center">
-//           <p className="text-3xl font-bold ${poppins.className">The best URL shortner in the market</p>
-//           <p className="px-56 text-center w-[70vw]">We are the most straightforward URL Shortner in the world.Most of the url shortners will track you or ask you to give your details for login. We understand your needs and hence we have created this URL shortener</p>
-//           <div className='flex gap-3 justify-start'>
-//                 <Link href="/shorten" ><button className='bg-purple-500 rounded-lg shadow-lg p-3 py1 font-bold text-white' >Try now</button></Link>
-//                 <Link href="/github" ><button className='bg-purple-500 rounded-lg shadow-lg p-3 py1 font-bold text-white' >Github</button></Link>
-//             </div> 
-//         </div>
-//         <div className=" flex justify-start relative">
-//           <img className="mix-blend-darken w-full h-auto" alt="an Image of a vector" src="https://static.vecteezy.com/system/resources/thumbnails/004/154/417/small_2x/teamwork-or-team-building-office-business-meeting-conference-and-brainstorming-annual-report-and-statistics-graphics-discussion-and-planning-in-flat-style-free-vector.jpg" ></img>
-//         </div>
-//       </section>
-//     </main>
-//   );
-// }
 import Image from "next/image";
 import Link from "next/link";
 
